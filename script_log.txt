@@ -1,0 +1,198 @@
+2024-12-03 02:04:28,774 - INFO - Script started.
+2024-12-03 02:04:28,874 - INFO - No 'Open' tickets found.
+2024-12-03 02:04:32,018 - INFO - Script started.
+2024-12-03 02:04:32,110 - INFO - No 'Open' tickets found.
+2024-12-03 02:05:10,387 - INFO - Script started.
+2024-12-03 02:05:10,487 - INFO - Found 1 open ticket(s).
+2024-12-03 02:05:10,487 - INFO - Processing Ticket ID: 14, Subject: outlook not responding
+2024-12-03 02:05:15,504 - INFO - AI Response for Ticket ID 14: Outlook not responding can be a frustrating issue. Here are some steps you can try to fix it [doc1]:
+
+1. Restart Outlook: Close Outlook completely using Task Manager (Ctrl + Shift + Esc > End Task), then reopen Outlook.
+
+2. Disable Add-ins: Open Outlook in Safe Mode by pressing Windows + R, typing "outlook.exe /safe", and pressing Enter. Then go to File > Options > Add-ins and click "Go" next to "Manage COM Add-ins" to disable unnecessary add-ins.
+
+3. Repair the Outlook Data File: Close Outlook, open the Scanpst.exe tool (found in your Office installation directory), browse and select your .pst file, and click "Start" to repair.
+
+4. Update Outlook: Open Outlook, go to File > Office Account > Update Options > Update Now to check for and install any available updates.
+
+5. Create a New Outlook Profile: Open the Control Panel, go to Mail (Microsoft Outlook), and click "Show Profiles". Then click "Add" and set the new profile as the default.
+
+6. Reinstall Outlook: If all else fails, you can uninstall and reinstall Outlook.
+
+Please note that these steps may vary slightly depending on your specific version of Outlook.
+2024-12-03 02:05:15,603 - INFO - Ticket 14 update successful.
+2024-12-03 02:05:15,699 - INFO - Ticket 14 status updated to 'pending'.
+2024-12-03 02:08:04,790 - INFO - Script started.
+2024-12-03 02:08:04,900 - INFO - No 'Open' tickets found.
+2024-12-03 03:15:43,154 - INFO - Script started.
+2024-12-03 03:15:43,254 - INFO - Found 1 open ticket(s).
+2024-12-03 03:15:43,254 - INFO - Processing Ticket ID: 16, Subject: I'm unable to login to my system
+2024-12-03 03:15:45,384 - INFO - AI Response for Ticket ID 16: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 03:15:45,475 - INFO - Ticket 16 update successful.
+2024-12-03 03:15:45,571 - INFO - Ticket 16 status updated to 'pending'.
+2024-12-03 04:08:40,939 - INFO - Script started.
+2024-12-03 04:08:41,042 - INFO - Found 2 open ticket(s).
+2024-12-03 04:08:41,042 - INFO - Processing Ticket ID: 18, Subject: Password is incorrect
+2024-12-03 04:08:45,444 - INFO - AI Response for Ticket ID 18: To fix an incorrect password issue, you can follow these steps:
+
+1. Double-check your input: Ensure you're typing the correct password, including capitalization, special characters, and numbers [doc1].
+2. Clear browser cache and cookies: Sometimes, outdated information can cause login issues. Clearing your browser's cache and cookies can help [doc1].
+3. Check password manager: If you use a password manager, verify that the correct credentials are being used [doc1].
+
+If the issue persists, you may need to reach out to the website or application's customer support for further assistance [doc1].
+2024-12-03 04:08:45,534 - INFO - Ticket 18 update successful.
+2024-12-03 04:08:45,637 - INFO - Ticket 18 status updated to 'pending'.
+2024-12-03 04:08:45,637 - INFO - Processing Ticket ID: 17, Subject: Outlook is not responding
+2024-12-03 04:08:53,152 - INFO - AI Response for Ticket ID 17: Outlook not responding can be a frustrating issue. Here are some steps you can take to resolve it [doc1]:
+
+1. Restart Outlook: Close Outlook completely using Task Manager (Ctrl + Shift + Esc > End Task), then reopen Outlook.
+2. Disable Add-ins: Open Outlook in Safe Mode by pressing Windows + R, typing outlook.exe /safe, and pressing Enter. Go to File > Options > Add-ins. Click "Go" next to "Manage COM Add-ins" and disable unnecessary add-ins.
+3. Repair the Outlook Data File: Close Outlook. Open the Scanpst.exe tool (found in your Office installation directory). Browse and select your .pst file, then click "Start" to repair.
+4. Update Outlook: Open Outlook. Go to File > Office Account > Update Options > Update Now.
+5. Create a New Outlook Profile: Open the Control Panel > Mail (Microsoft Outlook) > Show Profiles. Click "Add" and set it as the default profile.
+6. Reinstall Outlook: If all else fails, uninstall and reinstall Outlook.
+
+Please note that the provided steps are general troubleshooting steps and may not solve the issue in all cases. If the problem persists, it may be helpful to seek further assistance from Microsoft support.
+2024-12-03 04:08:53,261 - INFO - Ticket 17 update successful.
+2024-12-03 04:08:53,357 - INFO - Ticket 17 status updated to 'pending'.
+2024-12-03 04:24:59,876 - INFO - Script started.
+2024-12-03 04:24:59,980 - INFO - Found 1 open ticket(s).
+2024-12-03 04:24:59,981 - INFO - Processing Ticket ID: 19, Subject: Outlook is not responding
+2024-12-03 04:25:02,254 - INFO - AI Response for Ticket ID 19: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 04:25:02,351 - INFO - Ticket 19 update successful.
+2024-12-03 04:25:02,459 - INFO - Ticket 19 status updated to 'pending'.
+2024-12-03 04:26:41,204 - INFO - Script started.
+2024-12-03 04:26:41,307 - INFO - Found 2 open ticket(s).
+2024-12-03 04:26:41,307 - INFO - Processing Ticket ID: 19, Subject: Outlook is not responding
+2024-12-03 04:26:43,438 - INFO - AI Response for Ticket ID 19: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 04:26:43,514 - INFO - Ticket 19 update successful.
+2024-12-03 04:26:43,605 - INFO - Ticket 19 status updated to 'pending'.
+2024-12-03 04:26:43,605 - INFO - Processing Ticket ID: 18, Subject: Password is incorrect
+2024-12-03 04:26:46,584 - INFO - AI Response for Ticket ID 18: If you are experiencing an issue with an incorrect password, there are several steps you can take to resolve it [doc1]. First, double-check your input and ensure that you are typing the correct password, including capitalization, special characters, and numbers [doc1]. Additionally, you can try clearing your browser's cache and cookies, as outdated information can sometimes cause login issues [doc1]. If you use a password manager, make sure that the correct credentials are being used [doc1]. If the issue persists, you may need to contact the website or application's customer support for further assistance [doc1].
+2024-12-03 04:26:46,685 - INFO - Ticket 18 update successful.
+2024-12-03 04:26:46,768 - INFO - Ticket 18 status updated to 'pending'.
+2024-12-03 04:41:57,427 - INFO - Script started.
+2024-12-03 04:41:57,530 - INFO - Found 1 open ticket(s).
+2024-12-03 04:41:57,530 - INFO - Processing Ticket ID: 19, Subject: Outlook is not responding
+2024-12-03 04:41:59,666 - INFO - AI Response for Ticket ID 19: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 04:41:59,756 - INFO - Ticket 19 update successful.
+2024-12-03 04:41:59,849 - INFO - Ticket 19 status updated to 'pending'.
+2024-12-03 04:42:43,689 - INFO - Script started.
+2024-12-03 04:42:43,787 - INFO - Found 1 open ticket(s).
+2024-12-03 04:42:43,787 - INFO - Processing Ticket ID: 17, Subject: Outlook is not responding
+2024-12-03 04:42:47,327 - INFO - AI Response for Ticket ID 17: The Dual Transformer Encoder (DTE) is a framework for sentence representation learning, useful for training, inferring, and evaluating sentence similarity models . It is built upon existing transformer-based text representations and incorporates technologies for enhanced robustness and faster training . Additionally, DTE offers pretrained models for in-context learning, aiding in finding semantically similar natural language utterances . These models can be further finetuned for tasks like prompt crafting, improving the performance of downstream inference models such as GPT-3 . However, such finetuning may require a substantial amount of data .
+2024-12-03 04:42:47,425 - INFO - Ticket 17 update successful.
+2024-12-03 04:42:47,519 - INFO - Ticket 17 status updated to 'pending'.
+2024-12-03 04:43:54,620 - INFO - Script started.
+2024-12-03 04:43:54,722 - INFO - Found 1 open ticket(s).
+2024-12-03 04:43:54,722 - INFO - Processing Ticket ID: 17, Subject: Outlook is not responding
+2024-12-03 04:43:56,773 - INFO - AI Response for Ticket ID 17: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 04:43:56,861 - INFO - Ticket 17 update successful.
+2024-12-03 04:43:56,946 - INFO - Ticket 17 status updated to 'pending'.
+2024-12-03 04:46:50,482 - INFO - Script started.
+2024-12-03 04:46:50,590 - INFO - Found 1 open ticket(s).
+2024-12-03 04:46:50,591 - INFO - Processing Ticket ID: 17, Subject: Outlook is not responding
+2024-12-03 04:46:52,776 - INFO - AI Response for Ticket ID 17: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 04:46:52,861 - INFO - Ticket 17 update successful.
+2024-12-03 04:46:52,948 - INFO - Ticket 17 status updated to 'pending'.
+2024-12-03 05:01:38,030 - INFO - Script started.
+2024-12-03 05:01:38,143 - INFO - Found 2 open ticket(s).
+2024-12-03 05:01:38,144 - INFO - Processing Ticket ID: 20, Subject: My Outlook Data file is corrupted
+2024-12-03 05:01:40,305 - INFO - AI Response for Ticket ID 20: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 05:01:40,395 - INFO - Ticket 20 update successful.
+2024-12-03 05:01:40,499 - INFO - Ticket 20 status updated to 'pending'.
+2024-12-03 05:01:40,499 - INFO - Processing Ticket ID: 18, Subject: Password is incorrect
+2024-12-03 05:01:44,097 - INFO - AI Response for Ticket ID 18: If you are experiencing an issue with an incorrect password, there are a few steps you can take to resolve the problem [doc1]. First, make sure you are typing the correct password, including capitalization, special characters, and numbers [doc1]. Additionally, you can try clearing your browser's cache and cookies, as outdated information can sometimes cause login issues [doc1]. If you use a password manager, verify that the correct credentials are being used [doc1]. If you are still unable to login, you may need to contact the customer support of the website or application for further assistance [doc1]. They can provide guidance and help you regain access to your account .
+2024-12-03 05:01:44,196 - INFO - Ticket 18 update successful.
+2024-12-03 05:01:44,277 - INFO - Ticket 18 status updated to 'pending'.
+2024-12-03 13:28:38,958 - INFO - Script started.
+2024-12-03 13:28:39,066 - INFO - Found 2 open ticket(s).
+2024-12-03 13:28:39,066 - INFO - Processing Ticket ID: 21, Subject: My Outlook is not responding
+2024-12-03 13:28:44,549 - INFO - AI Response for Ticket ID 21: I'm sorry to hear that you're experiencing issues with Outlook. Here are some steps you can try to resolve the issue:
+
+1. Restart Outlook: Close Outlook completely using Task Manager (Ctrl + Shift + Esc > End Task), then reopen Outlook [doc1].
+
+2. Disable Add-ins: Open Outlook in Safe Mode by pressing Windows + R, typing outlook.exe /safe, and pressing Enter. Then, go to File > Options > Add-ins and click "Go" next to "Manage COM Add-ins" to disable unnecessary add-ins [doc1].
+
+3. Repair the Outlook Data File: Close Outlook, open the Scanpst.exe tool (found in your Office installation directory), browse and select your .pst file, and click "Start" to repair [doc1].
+
+4. Update Outlook: Open Outlook, go to File > Office Account > Update Options > Update Now to ensure you have the latest updates [doc1].
+
+If the issue persists, please let me know and I'll be happy to assist you further.
+2024-12-03 13:28:44,656 - INFO - Ticket 21 update successful.
+2024-12-03 13:28:44,752 - INFO - Ticket 21 status updated to 'pending'.
+2024-12-03 13:28:44,752 - INFO - Processing Ticket ID: 18, Subject: Password is incorrect
+2024-12-03 13:28:48,650 - INFO - AI Response for Ticket ID 18: The issue of an incorrect password can be resolved by following a few steps [doc1]. First, it is important to double-check the input and ensure that the correct password is being typed, including capitalization, special characters, and numbers [doc1]. Additionally, clearing the browser cache and cookies can help resolve login issues [doc1]. If a password manager is being used, it is important to verify that the correct credentials are being used [doc1]. If the issue persists, it is recommended to reach out to the website or application's customer support for further assistance [doc1].
+2024-12-03 13:28:48,752 - INFO - Ticket 18 update successful.
+2024-12-03 13:28:48,863 - INFO - Ticket 18 status updated to 'pending'.
+2024-12-03 14:43:12,744 - INFO - Script started.
+2024-12-03 14:43:12,858 - INFO - Found 1 open ticket(s).
+2024-12-03 14:43:12,859 - INFO - Processing Ticket ID: 22, Subject: Password is incorrect
+2024-12-03 14:43:16,579 - INFO - AI Response for Ticket ID 22: The issue of an incorrect password can be resolved by following a few steps [doc1]. First, double-check your input and ensure that you are typing the correct password, including capitalization, special characters, and numbers [doc1]. If the issue persists, you can try clearing your browser cache and cookies, as outdated information can sometimes cause login issues [doc1]. Additionally, if you use a password manager, make sure that the correct credentials are being used [doc1]. If none of these steps work, you can reach out to the website or application's customer support for further assistance [doc1]. They may provide specific instructions or ask for additional information, such as your username or email address [doc1].
+2024-12-03 14:43:16,679 - INFO - Ticket 22 update successful.
+2024-12-03 14:43:16,784 - INFO - Ticket 22 status updated to 'pending'.
+2024-12-03 15:10:08,920 - INFO - Script started.
+2024-12-03 15:10:09,047 - INFO - Found 3 open ticket(s).
+2024-12-03 15:10:11,730 - INFO - AI Response for Ticket ID 23: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 15:10:11,834 - INFO - Ticket 23 update successful.
+2024-12-03 15:10:11,931 - INFO - Ticket 23 status updated to 'pending'.
+2024-12-03 15:10:11,931 - INFO - Processing Ticket ID: 22, Subject: Password is incorrect
+2024-12-03 15:10:15,611 - INFO - AI Response for Ticket ID 22: To resolve the issue of an incorrect password, you can follow these steps:
+
+1. Double-check your input: Make sure you are typing the correct password, including capitalization, special characters, and numbers [doc1].
+2. Clear browser cache and cookies: Sometimes, outdated information can cause login issues. Clearing your browser's cache and cookies can help [doc1].
+3. Check password manager: If you use a password manager, verify that the correct credentials are being used [doc1].
+
+If the issue persists, you may need to consider other factors such as a locked account or a weak password. Please let me know if you need further assistance with any of these issues.
+2024-12-03 15:10:15,710 - INFO - Ticket 22 update successful.
+2024-12-03 15:10:15,811 - INFO - Ticket 22 status updated to 'pending'.
+2024-12-03 15:10:15,812 - INFO - Processing Ticket ID: 21, Subject: My Outlook is not responding
+2024-12-03 15:10:22,331 - INFO - AI Response for Ticket ID 21: I'm sorry to hear that you're experiencing issues with Outlook. Here are some steps you can try to resolve the "Outlook Not Responding" issue:
+
+1. Restart Outlook: Close Outlook completely using Task Manager (Ctrl + Shift + Esc > End Task), then reopen it [doc1].
+
+2. Disable Add-ins: Open Outlook in Safe Mode by pressing Windows + R, typing "outlook.exe /safe," and pressing Enter. Then, go to File > Options > Add-ins and click "Go" next to "Manage COM Add-ins" to disable unnecessary add-ins [doc1].
+
+3. Repair the Outlook Data File: Close Outlook, open the Scanpst.exe tool (found in your Office installation directory), browse and select your .pst file, and click "Start" to repair [doc1].
+
+4. Update Outlook: Open Outlook, go to File > Office Account > Update Options > Update Now to check for and install any available updates [doc1].
+
+5. Create a New Outlook Profile: Open the Control Panel > Mail (Microsoft Outlook) > Show Profiles, click "Add," and set it as the default profile [doc1].
+
+6. Reinstall Outlook: If all else fails, you can uninstall and reinstall Outlook [doc1].
+
+Please note that the steps provided are general troubleshooting steps and may not resolve all issues. If the problem persists, it may be helpful to seek further assistance from Microsoft support or IT professionals.
+2024-12-03 15:10:22,432 - INFO - Ticket 21 update successful.
+2024-12-03 15:10:22,537 - INFO - Ticket 21 status updated to 'pending'.
+2024-12-03 17:57:02,835 - INFO - Script started.
+2024-12-03 17:57:02,961 - INFO - Found 1 open ticket(s).
+2024-12-03 17:57:02,962 - INFO - Processing Ticket ID: 24, Subject: Outlook is not responding
+2024-12-03 17:57:05,342 - INFO - AI Response for Ticket ID 24: The requested information is not available in the retrieved data. Please try another query or topic.
+2024-12-03 17:57:05,717 - INFO - Ticket 24 update successful.
+2024-12-03 17:57:06,043 - INFO - Ticket 24 status updated to 'pending'.
+2024-12-03 18:19:11,556 - INFO - Script started.
+2024-12-03 18:19:11,664 - INFO - Found 1 open ticket(s).
+2024-12-03 18:19:11,664 - INFO - Processing Ticket ID: 25, Subject: Password is incorrect
+2024-12-03 18:19:15,320 - INFO - AI Response for Ticket ID 25: To fix an incorrect password issue, you can try the following steps:
+
+1. Double-check your input: Make sure you're typing the correct password, including capitalization, special characters, and numbers [doc1].
+
+2. Clear browser cache and cookies: Sometimes, outdated information can cause login issues. Clearing your browser's cache and cookies can help [doc1].
+
+3. Check password manager: If you use a password manager, verify that the correct credentials are being used [doc1].
+
+If the issue persists, you may need to consider other factors such as a locked account or a weak password [doc1]. Let me know if you need assistance with any of these issues.
+2024-12-03 18:19:15,419 - INFO - Ticket 25 update successful.
+2024-12-03 18:19:15,520 - INFO - Ticket 25 status updated to 'pending'.
+2024-12-03 18:33:04,794 - INFO - Script started.
+2024-12-03 18:33:04,909 - INFO - Found 1 open ticket(s).
+2024-12-03 18:33:04,909 - INFO - Processing Ticket ID: 26, Subject: Password is incorrect
+2024-12-03 18:33:08,278 - INFO - AI Response for Ticket ID 26: If you are experiencing an issue with an incorrect password, there are a few steps you can take to resolve the problem:
+
+1. Double-Check Your Input: Ensure you are typing the correct password, including capitalization, special characters, and numbers [doc1].
+2. Clear Browser Cache and Cookies: Sometimes, outdated information can cause login issues. Clearing your browser's cache and cookies can help [doc1].
+3. Check Password Manager: If you use a password manager, verify that the correct credentials are being used [doc1].
+
+If these steps do not resolve the issue, please let me know and I will provide further assistance.
+2024-12-03 18:33:08,415 - INFO - Ticket 26 update successful.
+2024-12-03 18:33:08,526 - INFO - Ticket 26 status updated to 'pending'.
